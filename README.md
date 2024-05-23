@@ -28,7 +28,7 @@ And then, remove these lines (selected one):
 
 <img src="https://i.imgur.com/lw6p7IZ.png" />
 
-### 2. Navigate to <chat resource>/server/index.ts
+### 2. Navigate to chat resource/server/index.ts
 And refactor below method as shown on screenshot:
 
 <img src="https://i.imgur.com/V34lkYo.png"/>
