@@ -1,6 +1,9 @@
 # Rebar Roleplay Commands
 This plugin provides essential roleplay commands for the Rebar framework. It allows players to communicate actions, background descriptions, and dialogue with varying voice levels within a defined distance.
 
+## Showcase
+<img src="https://i.imgur.com/H1cfZdw.png"/>
+
 ## Features
 * /me Command: Describe an action made by your character.
 * /do Command: Describe a background event or scene.
